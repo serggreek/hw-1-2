@@ -1,0 +1,39 @@
+/*GENERAL STYLES */
+.container {
+		margin-right: 350px;
+		margin-left: 350px;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+.text {
+		font: normal  Arial, sans-serif;
+	}
+a, p {
+		margin-left: 30px;
+	}
+a, p, h4, span {
+		line-height: 15px;
+		margin-bottom: 20px;
+	}
+a {
+		font-style: italic;
+	}
+
+/* HEADER */
+h1 {
+		margin: 30px 350px 0 350px;
+		text-align: center;
+		text-transform:uppercase;
+	}
+/* NAVIGATION */
+/* MAIN SECTION */
+img {
+		width:300px;
+		height:300px;
+		display:block;
+		margin:20px auto;
+	}
+.line {
+		align:center;
+	}
+/* FOOTER */
